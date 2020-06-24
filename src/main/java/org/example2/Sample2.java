@@ -6,6 +6,6 @@ package org.example2;
  */
 public class Sample2 {
     public void sayHello() {
-        System.out.println("Hello from example2 Sample2. Changes for tenant-1");
+        System.out.println("Hello from example2 Sample2. Changes for tenant-1 ... new added changes");
     }
 }
